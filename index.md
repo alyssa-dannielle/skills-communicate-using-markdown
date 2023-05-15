@@ -8,3 +8,8 @@
 print("Hello World!")
 ```
 outputs Hello World! to your screen
+
+To Do:
+- [ ] work on ticket
+- [ ] practice coding
+- [ ] play with Schwiggy
